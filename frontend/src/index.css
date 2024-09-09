@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffff;
+  color: #1a1a1a;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.post-card {
+  margin-bottom: 20px;
+}
+
+.rich-editor {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 200px;
+}
+
+.fab {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
